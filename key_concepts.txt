@@ -1,0 +1,10 @@
+Redux => Tool for state management.
+Store => Hold global state(data).
+Action => Describes what you want to do.
+Reducer => How your action transform the state.
+Dispatch => Execute an action.
+
+Action has type, reducer has (switch and
+the how) and dispatch execute the action.
+All data modified by reducer is stored in a store,
+that is a global state.
